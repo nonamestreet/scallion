@@ -9,5 +9,7 @@ The code from my contract works. This is not a complete system, but rather some 
 - Eye lash removal
 - Subpixel edge detection
 
-You will need Python 2.7, Numpy, Scipy and OpenCV to run the code
+You will need Python 2.7, Numpy, Scipy and OpenCV to run the code.
 
+## References
+1. An unbiased detector of curvilinear structures
